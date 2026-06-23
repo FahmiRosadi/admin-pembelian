@@ -71,9 +71,11 @@ Sistem admin sederhana berbasis web untuk manajemen produk, stok, dan transaksi 
 git clone https://github.com/USERNAME/admin-pembelian.git
 cd admin-pembelian
 
-2. Install Dependencies
+
+
+### 2. Install Dependencies
 npm install
-3. Setup Database (PostgreSQL)
+### 3. Setup Database (PostgreSQL)
 
 Buat database:
 
